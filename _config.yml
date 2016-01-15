@@ -1,0 +1,28 @@
+name: marlus
+favicon: null
+layout_spectrum: 0.029242290649563074
+typography_spectrum: 0.5051444091368467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.47179673286154866
+  lightness: 0.09554486279375851
+  saturation: 0.847696598386392
+  rhythmicContrast: 0.8069372614845634
+purpose: []
